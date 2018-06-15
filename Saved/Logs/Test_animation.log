@@ -444,3 +444,12 @@ LogInit: Object subsystem initialized
 [2018.06.15-15.37.33:864][176]LogSavePackage: Save=102.21ms
 [2018.06.15-15.37.33:864][176]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltDataC96F99894BCE5924E545119425BC5B92.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
 [2018.06.15-15.37.33:866][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.06.15-15.39.30:784][880]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.06.15-15.39.50:042][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-15.39.59:483][367]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.15-15.40.26:812][968]LogSavePackage: Save=86.03ms
+[2018.06.15-15.40.26:812][968]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap2A5A9BE04EE5CA34210DBE974E960BAD.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.06.15-15.40.26:894][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.06.15-15.40.27:108][968]LogSavePackage: Save=115.36ms
+[2018.06.15-15.40.27:108][968]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltDataE666A9FE432B7FC9AE835783CA0D012B.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.06.15-15.40.27:112][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
