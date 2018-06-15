@@ -453,3 +453,13 @@ LogInit: Object subsystem initialized
 [2018.06.15-15.40.27:108][968]LogSavePackage: Save=115.36ms
 [2018.06.15-15.40.27:108][968]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltDataE666A9FE432B7FC9AE835783CA0D012B.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
 [2018.06.15-15.40.27:112][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.06.15-15.41.44:114][923]LogEditorViewport: Clicking Background
+[2018.06.15-15.41.50:185][156]LogEditorViewport: Clicking Background
+[2018.06.15-15.42.00:564][740]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.06.15-15.42.09:463][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-15.42.09:625][130]LogSavePackage: Save=79.11ms
+[2018.06.15-15.42.09:625][130]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap2EF3DFE54C05C0A0DC4285A4AB262B9F.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.06.15-15.42.09:631][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.06.15-15.42.09:826][130]LogSavePackage: Save=109.06ms
+[2018.06.15-15.42.09:826][130]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltData785217F548C5E4950405F19405010573.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.06.15-15.42.09:828][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
