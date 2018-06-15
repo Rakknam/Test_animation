@@ -417,3 +417,30 @@ LogInit: Object subsystem initialized
 [2018.06.15-15.35.59:698][160]LogActorFactory: Actor Factory created Sphere
 [2018.06.15-15.36.00:405][237]LogActorFactory: Actor Factory created Sphere
 [2018.06.15-15.36.01:601][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-15.37.06:602][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-15.37.06:623][181]LogSlate: Took 0.001523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.15-15.37.06:772][181]LogSavePackage: Save=82.61ms
+[2018.06.15-15.37.06:772][181]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap68CB86FB4BFEE9A286ED07B16F9D23ED.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.06.15-15.37.06:778][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.06.15-15.37.06:961][181]LogSavePackage: Save=153.94ms
+[2018.06.15-15.37.06:961][181]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltData4CA090944990ECFD7BD415BC9A0DFF89.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.06.15-15.37.06:963][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.06.15-15.37.07:223][185]LogSavePackage: Save=78.17ms
+[2018.06.15-15.37.07:223][185]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMapD5FAA59A406E92372E05FDA1BFA0095A.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.06.15-15.37.07:228][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.06.15-15.37.07:355][185]LogSavePackage: Save=104.61ms
+[2018.06.15-15.37.07:355][185]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltData7219E06148C64E2CB789A5A31D3B741B.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.06.15-15.37.07:358][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.06.15-15.37.08:808][338]LogSavePackage: Save=77.45ms
+[2018.06.15-15.37.08:808][338]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap5E33833E42917572A8E10BBC7BE25705.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.06.15-15.37.08:814][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.06.15-15.37.08:941][338]LogSavePackage: Save=103.16ms
+[2018.06.15-15.37.08:941][338]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltData18DDBA11476330BC07F20095897F5BF7.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.06.15-15.37.08:944][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.06.15-15.37.33:553][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.15-15.37.33:732][176]LogSavePackage: Save=78.71ms
+[2018.06.15-15.37.33:732][176]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMapD6DEB8204999C233CA7065AA5DDDD66A.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.06.15-15.37.33:737][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.06.15-15.37.33:864][176]LogSavePackage: Save=102.21ms
+[2018.06.15-15.37.33:864][176]LogSavePackage: Moving '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Saved/TopDownExampleMap_BuiltDataC96F99894BCE5924E545119425BC5B92.tmp' to '../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.06.15-15.37.33:866][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jordi/Documents/Unreal Projects/Test_animation/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
